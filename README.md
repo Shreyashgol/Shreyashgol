@@ -73,7 +73,7 @@ I focus on building **scalable backend systems, AI-powered applications, and dat
 ## Competitive Programming
 
 - **LeetCode:** 500+ problems solved  
-- **Codeforces:** 1000+ rating  
+- **Codeforces:** 1180 rating  
 - **CodeChef:** ⭐⭐ (2-Star)  
 
 ---
