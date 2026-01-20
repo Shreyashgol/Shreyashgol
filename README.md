@@ -19,10 +19,10 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/SSSLgol/">
-    <img src="https://img.shields.io/badge/LeetCode%2B-orange?logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode2B-orange?logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://codeforces.com/profile/Shreyash_Golhani">
-    <img src="https://img.shields.io/badge/Codeforces%2B-blue?logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Codeforces2B-blue?logo=codeforces&logoColor=white"/>
   </a>
   <!-- <a href="YOUR_BLOG_LINK">
     <img src="https://img.shields.io/badge/Blog-Tech%20Articles-black?logo=hashnode&logoColor=white"/>
