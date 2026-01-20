@@ -1,36 +1,128 @@
-<h1 align="center">Hi 👋, I'm Shreyash Golhani</h1>
-<h3 align="center">A passionate full-stack developer and coder from India.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashgol&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashgol" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyashgol" alt="shreyashgol" /></a> </p>
-
-- 🔭 I’m currently working on [creating-mini-canva](https://creating-mini-canva.vercel.app/)
-
-- 🌱 I’m currently learning **React, node.js**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-iota-rouge-79.vercel.app/](https://portfolio-iota-rouge-79.vercel.app/)
-
-- 📫 How to reach me **shreyashgolhani@gamil.com**
-
-- 📄 Know about my experiences [file:///Users/shreyashgolhani1/Downloads/Resume-Shreyash%20Golhani%20(9).pdf](file:///Users/shreyashgolhani1/Downloads/Resume-Shreyash%20Golhani%20(9).pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shreyash-golhani-b95b172b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyash golhani" height="30" width="40" /></a>
-<a href="https://instagram.com/golhanishreyas2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="golhanishreyas2024" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shreyashgol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shreyashgol" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/Shreyash212_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shreyash212_tech" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Shreyash_Golhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shreyash_golhani" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/SSSLgol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ssslgol" height="30" width="40" /></a>
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+Systems+Builder;System+Design+%7C+RAG+%7C+LLMs;Competitive+Programmer+%7C+Open+Source" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+# Shreyash Golhani
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyashgol&show_icons=true&locale=en&layout=compact" alt="shreyashgol" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shreyash.golhani2024@nst.rishihood.edu.in">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyashgol&show_icons=true&locale=en" alt="shreyashgol" /></p>
+<p align="center">
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+    <img src="https://img.shields.io/badge/LeetCode-500%2B-orange?logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
+    <img src="https://img.shields.io/badge/Codeforces-1000%2B-blue?logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="YOUR_BLOG_LINK">
+    <img src="https://img.shields.io/badge/Blog-Tech%20Articles-black?logo=hashnode&logoColor=white"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashgol&" alt="shreyashgol" /></p>
+---
 
+## About
+
+I am a **Full Stack Developer & AI Systems Builder**, currently pursuing **B.Tech in Data Science** at Newton School of Technology, Rishihood University.
+
+I focus on building **scalable backend systems, AI-powered applications, and data-intensive platforms**, with strong emphasis on **system design, correctness, performance, and clean architecture**.
+
+---
+
+## Skills
+
+**Languages:** JavaScript, Python, SQL  
+**Frameworks:** React, Next.js, Node.js, Express, FastAPI  
+**Databases:** PostgreSQL, MongoDB  
+**AI / ML:** RAG (FAISS), LLM Orchestration, sentence-transformers, Google Gemini API  
+**Engineering:** REST APIs, JWT, RBAC, CI/CD, Docker, AWS  
+
+---
+
+## Projects
+
+**crekAI** — AI Resume & Interview Assistant  
+- Modular LLM orchestration with Google Gemini  
+- Secure backend using JWT + RBAC  
+- Optimized PostgreSQL schema with analytics dashboard  
+
+**agrovers** — AI Soil Advisory Platform  
+- Finite-state multi-step workflow  
+- RAG pipeline for contextual recommendations  
+- FastAPI microservices + n8n automation  
+- Bilingual (Hindi / English), low-bandwidth optimized UI  
+
+**genMap** — Lineage & Risk Modeling System  
+- Recursive CTE-based graph traversal in PostgreSQL  
+- Stateless Node.js backend  
+- Secure auth, server-side PDF generation  
+- Performance optimization via indexing and query tuning  
+
+---
+
+## Competitive Programming
+
+- **LeetCode:** 500+ problems solved  
+- **Codeforces:** 1000+ rating  
+- **CodeChef:** ⭐⭐ (2-Star)  
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"/>
+</p>
+
+---
+
+## Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+</p>
+
+---
+
+## Contribution Graph (Auto-Animated)
+
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=0&color=0"/>
+</p>
+
+---
+
+## Philosophy
+
+> Build systems that are **correct, scalable, and impactful**.  
+> Learn deeply. Ship consistently. Optimize relentlessly.
+
+⭐ If you find my work interesting, consider starring my repositories!
