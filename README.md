@@ -6,27 +6,27 @@
 # Shreyash Golhani
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/shreyash-golhani-b95b172b5/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:shreyash.golhani2024@nst.rishihood.edu.in">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Shreyashgol">
     <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+  <a href="https://leetcode.com/u/SSSLgol/">
     <img src="https://img.shields.io/badge/LeetCode-500%2B-orange?logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
+  <a href="https://codeforces.com/profile/Shreyash_Golhani">
     <img src="https://img.shields.io/badge/Codeforces-1000%2B-blue?logo=codeforces&logoColor=white"/>
   </a>
-  <a href="YOUR_BLOG_LINK">
+  <!-- <a href="YOUR_BLOG_LINK">
     <img src="https://img.shields.io/badge/Blog-Tech%20Articles-black?logo=hashnode&logoColor=white"/>
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -81,7 +81,7 @@ I focus on building **scalable backend systems, AI-powered applications, and dat
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shreyashgol&theme=darkhub&no-frame=true&margin-w=15"/>
 </p>
 
 ---
@@ -89,9 +89,9 @@ I focus on building **scalable backend systems, AI-powered applications, and dat
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreyashgol&show_icons=true&theme=default&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyashgol&hide_border=true"/>
 </p>
 
 ---
@@ -99,7 +99,7 @@ I focus on building **scalable backend systems, AI-powered applications, and dat
 ## Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyashgol&layout=compact&hide_border=true"/>
 </p>
 
 ---
@@ -107,7 +107,7 @@ I focus on building **scalable backend systems, AI-powered applications, and dat
 ## Contribution Graph (Auto-Animated)
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/Shreyashgol/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -115,7 +115,7 @@ I focus on building **scalable backend systems, AI-powered applications, and dat
 ## Profile Views
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=0&color=0"/>
+  <img src="https://visitcount.itsvg.in/api?id=Shreyashgol&icon=0&color=0"/>
 </p>
 
 ---
